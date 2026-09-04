@@ -1,12 +1,14 @@
 <style>
-/* Keep the one-page layout centered, but give the content more breathing room. */
-.prose {
-  max-width: 88ch !important;
+/* Widen the one-page content area while keeping it centered. */
+.prose,
+.max-w-prose {
+  max-width: 1050px !important;
 }
 
 @media (min-width: 1024px) {
-  #members .prose {
-    max-width: 1120px !important;
+  #members .prose,
+  #members .max-w-prose {
+    max-width: 1200px !important;
   }
 }
 </style>
