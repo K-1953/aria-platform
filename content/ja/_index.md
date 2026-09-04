@@ -106,7 +106,7 @@ sections:
       text: |-
         研究代表者：**廣井 慧（京都大学）**
 
-        連絡先：**hiroi[a]dimsis.dpri.kyoto-u.ac.jp**
+        連絡先：**hiroi[at]dimsis.dpri.kyoto-u.ac.jp**
 
         研究プロジェクト、研究費等の情報を掲載します。
     design:
