@@ -46,34 +46,40 @@ sections:
   - block: markdown
     id: research
     content:
-      title: 'Research Themes'
-      subtitle: ''
+      title: 'Research Themes and Outputs'
+      subtitle: 'Visual summaries of publications will be added under each research theme.'
       text: |-
         ### 1. Development of the Integration Platform
         We develop the ARIA platform and methods for flexibly linking heterogeneous simulators, infrastructure models, services, applications, and real systems.
 
+        **Infographic sample**  
+        [Infographic image will appear here]
+
+        **ARIA: Interactive Damage Prediction System for Urban Flood Using Simulation and Emulation Federation Platform**  
+        IPSJ Transactions on Consumer Devices & Systems, 2020  
+        *Paper / DOI link will be placed here*
+
+        ---
+
         ### 2. Analysis Using the Integrated Platform
         We use ARIA to investigate disaster impacts across infrastructure, information services, applications, and human behavior, including the propagation of failures among dependent systems.
 
+        **Infographic sample**  
+        [Infographic image will appear here]
+
+        **Design of a Testbed for Disaster-Response Applications**  
+        IWIN 2026  
+        *Paper / DOI link will be placed here*
+
+        ---
+
         ### 3. Synthetic Disaster Data
         We develop methods for generating disaster scenarios and synthetic disaster data for use as experimental conditions, including rainfall and flood scenarios and extensions to other hazards.
-    design:
-      columns: '1'
 
-  - block: markdown
-    id: outputs
-    content:
-      title: 'Research Outputs'
-      subtitle: 'Visual summaries of ARIA-related publications will be added here.'
-      text: |-
-        ### Development of the Integration Platform
-        *Infographics will be added for related publications.*
+        **Infographic sample**  
+        [Infographic image will appear here]
 
-        ### Analysis Using the Integrated Platform
-        *Infographics will be added for related publications.*
-
-        ### Synthetic Disaster Data
-        *Infographics will be added for related publications.*
+        *Publication title / venue / year / Paper link will be added here*
     design:
       columns: '1'
 
@@ -86,7 +92,7 @@ sections:
         **Principal Investigator**  
         **Kei Hiroi** — Kyoto University
 
-        Additional project members and links to individual research profiles will be added here.
+        Additional project members and links to Google Scholar or other research profiles will be added here.
     design:
       columns: '1'
 
