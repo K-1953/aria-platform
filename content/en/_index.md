@@ -107,8 +107,6 @@ sections:
         Principal Investigator: **Kei Hiroi, Kyoto University**
 
         Contact: **hiroi[at]dimsis.dpri.kyoto-u.ac.jp**
-
-        Project and funding information will be added here.
     design:
       columns: '1'
 ---
