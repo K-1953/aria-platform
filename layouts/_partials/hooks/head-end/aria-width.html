@@ -5,10 +5,41 @@
   max-width: 1050px !important;
 }
 
-@media (min-width: 1024px) {
-  #members .prose,
-  #members .max-w-prose {
-    max-width: 1200px !important;
+#members .prose,
+#members .max-w-prose {
+  max-width: 1200px !important;
+}
+
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 220px);
+  justify-content: center;
+  gap: 2rem;
+  text-align: center;
+  align-items: start;
+}
+
+.member-photo {
+  display: block;
+  width: 220px !important;
+  height: 220px !important;
+  min-width: 220px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 12px;
+  margin: 0 auto 1rem;
+}
+
+@media (max-width: 1050px) {
+  .member-grid {
+    grid-template-columns: repeat(2, 220px);
+    row-gap: 3rem;
+  }
+}
+
+@media (max-width: 560px) {
+  .member-grid {
+    grid-template-columns: 220px;
   }
 }
 </style>
