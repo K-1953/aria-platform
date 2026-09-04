@@ -89,11 +89,12 @@ sections:
       title: 'メンバー'
       subtitle: ''
       text: |-
-        |  |  |  |  |
-        |:---:|:---:|:---:|:---:|
-        | ![廣井 慧](/images/members/kei-hiroi.png) | ![小比賀 亮仁](/images/members/akihito-kohiga.png) | ![深谷 将](/images/members/sho-fukaya.png) | ![篠田 陽一](/images/members/yoichi-shinoda.png) |
-        | **廣井 慧**<br>Kei Hiroi | **小比賀 亮仁**<br>Akihito Kohiga | **深谷 将**<br>Sho Fukaya | **篠田 陽一**<br>Yoichi Shinoda |
-        | 京都大学防災研究所<br>Disaster Prevention Research Institute,<br>Kyoto University | 同志社大学<br>Doshisha University | 公立諏訪東京理科大学<br>Suwa University of Science | NTTドコモビジネス<br>NTT DOCOMO BUSINESS, Inc. |
+        <div style="display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:2rem;text-align:center;align-items:start;">
+          <div><img src="/images/members/kei-hiroi.png" alt="廣井 慧" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>廣井 慧</strong><br>Kei Hiroi<br><small>京都大学防災研究所<br>Disaster Prevention Research Institute,<br>Kyoto University</small></div>
+          <div><img src="/images/members/akihito-kohiga.png" alt="小比賀 亮仁" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>小比賀 亮仁</strong><br>Akihito Kohiga<br><small>同志社大学<br>Doshisha University</small></div>
+          <div><img src="/images/members/sho-fukaya.png" alt="深谷 将" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>深谷 将</strong><br>Sho Fukaya<br><small>公立諏訪東京理科大学<br>Suwa University of Science</small></div>
+          <div><img src="/images/members/yoichi-shinoda.png" alt="篠田 陽一" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>篠田 陽一</strong><br>Yoichi Shinoda<br><small>NTTドコモビジネス<br>NTT DOCOMO BUSINESS, Inc.</small></div>
+        </div>
     design:
       columns: '1'
 
@@ -105,7 +106,9 @@ sections:
       text: |-
         研究代表者：**廣井 慧（京都大学）**
 
-        研究プロジェクト、研究費、連絡先等の情報を掲載します。
+        連絡先：**hiroi[a]dimsis.dpri.kyoto-u.ac.jp**
+
+        研究プロジェクト、研究費等の情報を掲載します。
     design:
       columns: '1'
 ---
