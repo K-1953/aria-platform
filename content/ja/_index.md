@@ -46,34 +46,40 @@ sections:
   - block: markdown
     id: research
     content:
-      title: '研究テーマ'
-      subtitle: ''
+      title: '研究テーマと成果'
+      subtitle: '各テーマの研究成果を、論文ごとのInfographicsとして順次掲載します。'
       text: |-
         ### 1. 連携基盤の開発
         異なるシミュレータ、インフラモデル、サービス、アプリ、実システムを柔軟に連携させるARIA基盤と、そのための連携手法を研究開発します。
 
+        **Infographic sample**  
+        ［ここにInfographic画像を表示］
+
+        **ARIA: シミュレーション・エミュレーション連携基盤を利用したインタラクティブな都市型水害の被害予測システム**  
+        情報処理学会論文誌コンシューマ・デバイス＆システム, 2020  
+        *Paper / DOIへのリンクをここに配置*
+
+        ---
+
         ### 2. 連携基盤による分析
         ARIAを用いて、災害によるインフラ、情報サービス、アプリ、人の行動への影響や、依存関係を通じた障害の波及を分析します。
 
+        **Infographic sample**  
+        ［ここにInfographic画像を表示］
+
+        **Design of a Testbed for Disaster-Response Applications**  
+        IWIN 2026  
+        *Paper / DOIへのリンクをここに配置*
+
+        ---
+
         ### 3. 疑似災害データ
         実験条件として利用できる災害シナリオや疑似災害データの生成手法を研究します。降雨・洪水をはじめ、他の災害への拡張も進めます。
-    design:
-      columns: '1'
 
-  - block: markdown
-    id: outputs
-    content:
-      title: '研究成果'
-      subtitle: 'ARIAに関連する論文の内容を、Infographicsとして順次掲載します。'
-      text: |-
-        ### 連携基盤の開発
-        *関連論文のInfographicsを掲載予定です。*
+        **Infographic sample**  
+        ［ここにInfographic画像を表示］
 
-        ### 連携基盤による分析
-        *関連論文のInfographicsを掲載予定です。*
-
-        ### 疑似災害データ
-        *関連論文のInfographicsを掲載予定です。*
+        *論文タイトル / 掲載誌 / 年 / Paperリンクをここに追加*
     design:
       columns: '1'
 
@@ -86,7 +92,7 @@ sections:
         **研究代表者 / Principal Investigator**  
         **廣井 慧** — 京都大学
 
-        その他のメンバーと各研究者の研究プロフィールへのリンクを順次掲載します。
+        その他のメンバーと各研究者のGoogle Scholar等へのリンクを順次掲載します。
     design:
       columns: '1'
 
