@@ -91,9 +91,8 @@ sections:
       text: |-
         |  |  |  |  |
         |:---:|:---:|:---:|:---:|
-        | ![Kei Hiroi](/media/members/kei-hiroi.png) | ![Akihito Kohiga](/media/members/akihito-kohiga.png) | ![Sho Fukaya](/media/members/sho-fukaya.png) | ![Yoichi Shinoda](/media/members/yoichi-shinoda.png) |
+        | ![Kei Hiroi](/images/members/kei-hiroi.png) | ![Akihito Kohiga](/images/members/akihito-kohiga.png) | ![Sho Fukaya](/images/members/sho-fukaya.png) | ![Yoichi Shinoda](/images/members/yoichi-shinoda.png) |
         | **Kei Hiroi** | **Akihito Kohiga** | **Sho Fukaya** | **Yoichi Shinoda** |
-        | **Principal Investigator** |  |  |  |
         | Disaster Prevention Research Institute,<br>Kyoto University | Doshisha University | Suwa University of Science | NTT DOCOMO BUSINESS, Inc. |
     design:
       columns: '1'
