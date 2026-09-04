@@ -89,10 +89,12 @@ sections:
       title: 'Members'
       subtitle: ''
       text: |-
-        **Principal Investigator**  
-        **Kei Hiroi** — Kyoto University
-
-        Additional project members and links to Google Scholar or other research profiles will be added here.
+        |  |  |  |  |
+        |:---:|:---:|:---:|:---:|
+        | ![Kei Hiroi](/media/members/kei-hiroi.png) | ![Akihito Kohiga](/media/members/akihito-kohiga.png) | ![Sho Fukaya](/media/members/sho-fukaya.png) | ![Yoichi Shinoda](/media/members/yoichi-shinoda.png) |
+        | **Kei Hiroi** | **Akihito Kohiga** | **Sho Fukaya** | **Yoichi Shinoda** |
+        | **Principal Investigator** |  |  |  |
+        | Disaster Prevention Research Institute,<br>Kyoto University | Doshisha University | Suwa University of Science | NTT DOCOMO BUSINESS, Inc. |
     design:
       columns: '1'
 
