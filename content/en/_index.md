@@ -89,11 +89,11 @@ sections:
       title: 'Members'
       subtitle: ''
       text: |-
-        <div style="display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:2rem;text-align:center;align-items:start;">
-          <div><img src="/images/members/kei-hiroi.png" alt="Kei Hiroi" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>Kei Hiroi</strong><br><small>Disaster Prevention Research Institute,<br>Kyoto University</small></div>
-          <div><img src="/images/members/akihito-kohiga.png" alt="Akihito Kohiga" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>Akihito Kohiga</strong><br><small>Doshisha University</small></div>
-          <div><img src="/images/members/sho-fukaya.png" alt="Sho Fukaya" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>Sho Fukaya</strong><br><small>Suwa University of Science</small></div>
-          <div><img src="/images/members/yoichi-shinoda.png" alt="Yoichi Shinoda" style="width:220px;height:220px;object-fit:cover;object-position:center;border-radius:12px;margin:0 auto 1rem;"><strong>Yoichi Shinoda</strong><br><small>NTT DOCOMO BUSINESS, Inc.</small></div>
+        <div class="member-grid">
+          <div><img class="member-photo" src="/images/members/kei-hiroi.png" alt="Kei Hiroi"><strong>Kei Hiroi</strong><br><small>Disaster Prevention Research Institute,<br>Kyoto University</small></div>
+          <div><img class="member-photo" src="/images/members/akihito-kohiga.png" alt="Akihito Kohiga"><strong>Akihito Kohiga</strong><br><small>Doshisha University</small></div>
+          <div><img class="member-photo" src="/images/members/sho-fukaya.png" alt="Sho Fukaya"><strong>Sho Fukaya</strong><br><small>Suwa University of Science</small></div>
+          <div><img class="member-photo" src="/images/members/yoichi-shinoda.png" alt="Yoichi Shinoda"><strong>Yoichi Shinoda</strong><br><small>NTT DOCOMO BUSINESS, Inc.</small></div>
         </div>
     design:
       columns: '1'
