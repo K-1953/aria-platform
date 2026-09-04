@@ -91,9 +91,8 @@ sections:
       text: |-
         |  |  |  |  |
         |:---:|:---:|:---:|:---:|
-        | ![廣井 慧](/media/members/kei-hiroi.png) | ![小比賀 亮仁](/media/members/akihito-kohiga.png) | ![深谷 将](/media/members/sho-fukaya.png) | ![篠田 陽一](/media/members/yoichi-shinoda.png) |
+        | ![廣井 慧](/images/members/kei-hiroi.png) | ![小比賀 亮仁](/images/members/akihito-kohiga.png) | ![深谷 将](/images/members/sho-fukaya.png) | ![篠田 陽一](/images/members/yoichi-shinoda.png) |
         | **廣井 慧**<br>Kei Hiroi | **小比賀 亮仁**<br>Akihito Kohiga | **深谷 将**<br>Sho Fukaya | **篠田 陽一**<br>Yoichi Shinoda |
-        | **Principal Investigator** |  |  |  |
         | 京都大学防災研究所<br>Disaster Prevention Research Institute,<br>Kyoto University | 同志社大学<br>Doshisha University | 公立諏訪東京理科大学<br>Suwa University of Science | NTTドコモビジネス<br>NTT DOCOMO BUSINESS, Inc. |
     design:
       columns: '1'
