@@ -1,0 +1,91 @@
+hugoblox:
+  schema: "2.0"
+
+  identity:
+    name: "ARIA"
+    organization: "ARIA"
+    type: organization
+    tagline: "A Research Platform for Disaster-Response IT Systems"
+    description: "ARIA is a research platform for linking disaster-related simulators, observation devices, information systems, and analysis technologies."
+    social:
+      twitter: ""
+
+  theme:
+    mode: dark
+    pack: "contrast"
+
+  typography:
+    font: "sans"
+    size: "md"
+
+  layout:
+    radius: "md"
+    spacing: "comfortable"
+
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: center
+    show_logo: true
+    show_title: false
+    search: true
+    theme_toggle: false
+    theme_picker: false
+    language_switcher: true
+    cta:
+      enable: false
+      text: ""
+      url: ""
+
+  footer:
+    style: minimal
+    language_switcher: true
+    text: ""
+
+  copyright:
+    notice: "© {year} ARIA"
+
+  seo:
+    title: "ARIA"
+
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+    citations:
+      style: apa
+
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
+
+  comments:
+    enable: false
+    provider: ""
+
+  repository:
+    enable: false
+    url: ""
+    branch: main
+    content_dir: content
+
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"
+    address_format: en-us
+
+  privacy:
+    enable: false
+    anonymize_analytics: true
+
+  debug:
+    enable: false
+
+  pro:
+    hide_attribution: false
+    affiliate_code: ""

@@ -1,0 +1,16 @@
+# Languages
+# Documentation: https://docs.hugoblox.com/reference/language/
+
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: ARIA
+  params:
+    description: A research platform for disaster-response IT systems.
+
+ja:
+  languageCode: ja-jp
+  contentDir: content/ja
+  title: ARIA
+  params:
+    description: 防災ITのための研究基盤 ARIA

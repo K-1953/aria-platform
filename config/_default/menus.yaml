@@ -1,0 +1,17 @@
+# Navigation Links
+main:
+  - name: ARIA
+    url: /#aria
+    weight: 10
+  - name: What ARIA Can Do
+    url: /#capabilities
+    weight: 20
+  - name: Research
+    url: /#research
+    weight: 30
+  - name: Members
+    url: /#members
+    weight: 40
+  - name: Project
+    url: /#project
+    weight: 50

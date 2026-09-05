@@ -1,0 +1,89 @@
+<style>
+/* Widen the one-page content area while keeping it centered. */
+.prose,
+.max-w-prose {
+  max-width: 1050px !important;
+}
+
+#members .prose,
+#members .max-w-prose {
+  max-width: 1200px !important;
+}
+
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 220px);
+  justify-content: center;
+  gap: 2rem;
+  text-align: center;
+  align-items: start;
+}
+
+.member-photo {
+  display: block;
+  width: 220px !important;
+  height: 220px !important;
+  min-width: 220px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 12px;
+  margin: 0 auto 1rem;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+  margin: 2rem 0 3.5rem;
+  align-items: start;
+}
+
+.research-output {
+  margin: 0;
+}
+
+.research-meta {
+  margin: 0 0 0.7rem;
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+
+.research-meta a {
+  display: inline;
+  margin-left: 0.35rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.research-image-link {
+  display: block;
+  cursor: zoom-in;
+}
+
+.research-output img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin: 0;
+}
+
+@media (max-width: 1050px) {
+  .member-grid {
+    grid-template-columns: repeat(2, 220px);
+    row-gap: 3rem;
+  }
+}
+
+@media (max-width: 760px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .member-grid {
+    grid-template-columns: 220px;
+  }
+}
+</style>
