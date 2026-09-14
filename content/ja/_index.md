@@ -79,6 +79,11 @@ sections:
             <div class="research-meta"><strong>Emotional Parameters for Evacuation Agents via Live Earthquake Stream Analysis</strong></div>
             <a class="research-image-link" href="/images/infographics/IJIS2025_ja.png" target="_blank" rel="noopener"><img src="/images/infographics/IJIS2025_ja.png" alt="Emotional Parameters for Evacuation Agents via Live Earthquake Stream Analysis"></a>
           </div>
+
+          <div class="research-output">
+            <div class="research-meta"><strong>Comprehensive Identification of Disaster Communication Failures using Large Language Models and Interdependency Analysis</strong></div>
+            <a class="research-image-link" href="/images/infographics/iDRiM2025_ja.png" target="_blank" rel="noopener"><img src="/images/infographics/iDRiM2025_ja.png" alt="Comprehensive Identification of Disaster Communication Failures using Large Language Models and Interdependency Analysis"></a>
+          </div>
         </div>
 
         ---
@@ -102,10 +107,11 @@ sections:
       subtitle: ''
       text: |-
         <div class="member-grid">
-          <div><img class="member-photo" src="/images/members/kei-hiroi.png" alt="廣井 慧"><strong>廣井 慧</strong><br>Kei Hiroi<br><small>京都大学防災研究所<br>Disaster Prevention Research Institute,<br>Kyoto University</small></div>
+          <div><img class="member-photo" src="/images/members/kei-hiroi.png" alt="廣井慧"><strong>廣井慧</strong><br>Kei Hiroi<br><small>京都大学防災研究所<br>Disaster Prevention Research Institute,<br>Kyoto University</small></div>
           <div><img class="member-photo" src="/images/members/akihito-kohiga.png" alt="小比賀 亮仁"><strong>小比賀 亮仁</strong><br>Akihito Kohiga<br><small>同志社大学<br>Doshisha University</small></div>
           <div><img class="member-photo" src="/images/members/sho-fukaya.png" alt="深谷 将"><strong>深谷 将</strong><br>Sho Fukaya<br><small>公立諏訪東京理科大学<br>Suwa University of Science</small></div>
           <div><img class="member-photo" src="/images/members/yoichi-shinoda.png" alt="篠田 陽一"><strong>篠田 陽一</strong><br>Yoichi Shinoda<br><small>NTTドコモビジネス<br>NTT DOCOMO BUSINESS, Inc.</small></div>
+          <div><img class="member-photo" src="/images/members/takumi-kataoka.jpg" alt="片岡 拓海"><strong>片岡 拓海</strong><br>Takumi Kataoka<br><small>Altirius</small></div>
         </div>
     design:
       columns: '1'
@@ -116,7 +122,7 @@ sections:
       title: 'プロジェクト情報'
       subtitle: ''
       text: |-
-        研究代表者：**廣井 慧（京都大学）**
+        研究代表者：**廣井慧（京都大学）**
 
         連絡先：**hiroi[at]dimsis.dpri.kyoto-u.ac.jp**
     design:
