@@ -79,6 +79,11 @@ sections:
             <div class="research-meta"><strong>Emotional Parameters for Evacuation Agents via Live Earthquake Stream Analysis</strong></div>
             <a class="research-image-link" href="/images/infographics/IJIS2025_en.png" target="_blank" rel="noopener"><img src="/images/infographics/IJIS2025_en.png" alt="Emotional Parameters for Evacuation Agents via Live Earthquake Stream Analysis"></a>
           </div>
+
+          <div class="research-output">
+            <div class="research-meta"><strong>Comprehensive Identification of Disaster Communication Failures using Large Language Models and Interdependency Analysis</strong></div>
+            <a class="research-image-link" href="/images/infographics/iDRiM2025_en.png" target="_blank" rel="noopener"><img src="/images/infographics/iDRiM2025_en.png" alt="Comprehensive Identification of Disaster Communication Failures using Large Language Models and Interdependency Analysis"></a>
+          </div>
         </div>
 
         ---
@@ -106,6 +111,7 @@ sections:
           <div><img class="member-photo" src="/images/members/akihito-kohiga.png" alt="Akihito Kohiga"><strong>Akihito Kohiga</strong><br><small>Doshisha University</small></div>
           <div><img class="member-photo" src="/images/members/sho-fukaya.png" alt="Sho Fukaya"><strong>Sho Fukaya</strong><br><small>Suwa University of Science</small></div>
           <div><img class="member-photo" src="/images/members/yoichi-shinoda.png" alt="Yoichi Shinoda"><strong>Yoichi Shinoda</strong><br><small>NTT DOCOMO BUSINESS, Inc.</small></div>
+          <div><img class="member-photo" src="/images/members/takumi-kataoka.jpg" alt="Takumi Kataoka"><strong>Takumi Kataoka</strong><br><small>Altirius</small></div>
         </div>
     design:
       columns: '1'
